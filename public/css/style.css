@@ -1,0 +1,52 @@
+
+#nav-overlay {
+    position: fixed;
+    z-index: 1;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    background-color: #000;
+    opacity: .56;
+    display: none;
+}
+
+#nav-collapse .alt {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#nav-collapse .alt li {
+    line-height: 43px;
+    letter-spacing: .1px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, .87);
+    padding-left: 15px;
+}
+
+#nav-collapse .alt .active li {
+    color: rgba(255, 87, 34, .87);
+}
+
+#nav-collapse .alt a:active li {
+    background-color: #eee;
+}
+
+#nav-collapse .alt a:active, #nav-collapse .alt a:hover {
+    text-decoration: none;
+}
+
+.navbar-button {
+    line-height: 48px !important;
+    font-size: 24px !important;
+}
+
+.top-padding {
+    padding-top: 20px;
+}
+
+.cartoon-shadow {
+    text-shadow: 2px 2px 0 rgba(0,0,0,.2);
+}
+
+.inner {
+    padding-top: 1em;
+}

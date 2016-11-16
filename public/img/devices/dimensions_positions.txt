@@ -1,0 +1,12 @@
+Ipad mini:
+	13px; 85px
+	85px; 111px
+Iphone:
+	35px; 50px
+	62px; 88px
+Imac:
+	180px; 333px
+	107px; 187px
+Ipad:
+	72px; 108px
+	88px; 140px
